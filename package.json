@@ -1,0 +1,25 @@
+{
+  "name": "dotenv-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/dotenv-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/dotenv-example/issues"
+  },
+  "homepage": "https://github.com/QFults/dotenv-example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
